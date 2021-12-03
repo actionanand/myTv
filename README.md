@@ -218,6 +218,7 @@ To watch IPTV you just need to paste the `.m3u` file like this `https://bit.ly/A
 </details>
 
 ### How to run
+
 ```shell
 npm start
 ```

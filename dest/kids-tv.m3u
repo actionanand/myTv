@@ -1,1 +1,72 @@
-#m3u
+ #EXTM3U
+
+#EXTINF: -1 tvg-id="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Sneh Jio Kids", Nick Hindi
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Hindi&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="559" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Sneh Jio Kids", Pogo Hindi
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="99" tvg-logo="https://i.ibb.co/tDy3byh/logo.webp" group-title="Sneh Jio Kids", Techie Sneh
+https://github.com/techiesneh
+#EXTINF: -1 tvg-id="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Sneh Jio Kids", Cartoon Network Hindi
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="815" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Sneh Jio Kids", Sonic Hindi
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=sonic_Hindi&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="872" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Sneh Jio Kids", Sony Yay Hindi
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Yay_Hindi&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="547" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Sneh Jio Kids", Nickelodeon
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nickelodeon&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1079" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Sneh Jio Kids", CN HD+ English
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CN_HD_English&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Sneh Jio Kids", Discovery Kids 2
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Kids_2&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Sneh Jio Kids", Nick Junior
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Junior&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="551" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Toonami.png" group-title="Sneh Jio Kids", Testton
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Toonami&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="548" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Sneh Jio Kids", Nickelodeon Jr.
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nickelodeon_Jr&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1216" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="Sneh Jio Kids", Highbrow
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Highbrow&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="Sneh Jio Kids", Nick HD+
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="290" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Sneh Jio Tamil", sonic Tamil
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=sonic_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="550" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Sneh Jio Tamil", Discovery Kids Tamil
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Kids_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="543" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Sneh Jio Telugu", Nick Telugu
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Telugu&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="99" tvg-logo="https://i.ibb.co/tDy3byh/logo.webp" group-title="Sneh Jio Kids", Techie Sneh
+https://github.com/techiesneh
+#EXTINF: -1 tvg-id="874" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Sneh Jio Telugu", Sony Yay Telugu
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Yay_Telugu&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1080" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Sneh Jio Telugu", CN HD+ Telugu
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CN_HD_Telugu&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1242" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Sneh Jio Telugu", Sonic Telugu
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sonic_Telugu&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1343" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Gujarati.png" group-title="Sneh Jio Gujarati", Nick Gujarati
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Gujarati&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1347" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Gujarati.png" group-title="Sneh Jio Gujarati", Sonic Gujarati
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sonic_Gujarati&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1243" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png" group-title="Sneh Jio Kannada", Sonic Kannada
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sonic_Kannada&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1244" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-title="Sneh Jio Kannada", Nick Kannada
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Kannada&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1341" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Sneh Jio Bengali", Nick Bangla
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Bangla&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="99" tvg-logo="https://i.ibb.co/tDy3byh/logo.webp" group-title="Sneh Jio Kids", Techie Sneh
+https://github.com/techiesneh
+#EXTINF: -1 tvg-id="1345" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Sneh Jio Bengali", Sonic Bangla
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1342" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="Sneh Jio Marathi", Nick Marathi
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Marathi&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1346" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" group-title="Sneh Jio Marathi", Sonic Marathi
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sonic_Marathi&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="546" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Sneh Jio Tamil", Nick Tamil
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="542" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Sneh Jio Tamil", Pogo Tamil
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Pogo_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="817" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Sneh Jio Tamil", Cartoon Network Tamil
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Cartoon_Network_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="569" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="Sneh Jio Tamil", D Tamil
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Kids_Tamil&q=1200&e=.m3u8
+#EXTINF: -1 tvg-id="00" tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" group-title="Sneh Kids Eng", Animax ENG
+https://snehtv.tk/kidseng/animax.m3u8

@@ -1,0 +1,1389 @@
+#EXTM3U
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",YOGAA TV
+http://live.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",SAI TV
+http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",PC TV
+http://pctv.livebox.co.in/pctvhls/live.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",MY TV
+http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",V TV
+http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",VINMEEN TV
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",SURYA TV
+http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",ARUL TV
+http://198.144.149.82:8080/NOTV/ARULTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",JM TV
+http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",EZHIL TV
+http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",PSALM TV
+http://198.144.149.82:8080/NOTV/PSALMTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",PHOENIX TV
+http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",ANNAI TV
+http://198.144.149.82:8080/NOTV/ANNAITV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",TAMIL STAR TV
+http://stream.singamcloud.in:1935/tamilstartv/tamilstartv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",LIFE TV
+http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",TAMIL LIFE TV
+http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",POLIMER TV
+http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",ASHOKA TV
+http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",CTN LIVE
+http://bmlive.net:8000/ctn/ctn/bms.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",LOTUS TV
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",NEWS PLUS
+http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",7STAR2
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",OSAI TV
+http://osaitv.livebox.co.in/osaihls/live.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",TAMIL BLESSING TV
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w794457741.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",ETN TV
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",IBC CANADA
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",MARCHANA TV
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",NEEM TV
+http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",TAMIL NEWS7
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",POLIMER NEWS
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",PHUTHIYATHA TV
+http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",12 LIVE
+http://account12.livebox.co.in/ntvhls/ntv.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",HARI MEDIA
+http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",SANA TV
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",SANTHORA FILM
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",TAMIL VISION
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+#EXTINF:-1 group-title="Sneh@TAMIL=TV" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSneh.png",VASHAN TV
+http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:-1 group-title="Sneh TAMIL" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png",Madha TV
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+#EXTINF:-1 group-title="Sneh TAMIL" tvg-logo="https://www.blessingtv.tv/images/all_images/14579702231.png",Aasirvadham TV
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
+#EXTINF:-1 group-title="SRIFlix | Tamil" tvg-logo="http://mycapitaltv.com/images/Musiclogo.gif",Capital Music
+http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SRIFlix | Tamil" tvg-logo="http://mycapitaltv.com/images/bv05892.gif",Capital News
+http://89.187.162.89/Capital_NEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SRIFlix | Tamil" tvg-logo="http://mycapitaltv.com/images/Tharisanamlogo.gif",Capital Tharisanam
+http://89.187.162.89/Capital_Tharisanam/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sneh Tamil" tvg-logo="N/A",Akaram Gallata TV
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil" tvg-logo="N/A",Akaram Mix TV
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil" tvg-logo="N/A",Nethra TV
+http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/murasu-black.png",Murasu TV
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil" tvg-logo="N/A",IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil" tvg-logo="N/A",Jaya Movies
+https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
+#EXTINF:-1 group-title="Sneh Tamil" tvg-logo="N/A",Kalingar Chithiram
+http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil" tvg-logo="N/A",Isai Aruvi
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil" tvg-logo="N/A",makkal
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil" tvg-logo="N/A",Kalaingar Tv
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil" tvg-logo="N/A",Captain
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil" tvg-logo="N/A",Makkal
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
+#EXTINF:-1 group-title="Sneh Tamil" tvg-logo="N/A",Raj
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil" tvg-logo="N/A",Puthuyugam
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International; Entertainment" tvg-logo="https://secureservercdn.net/192.169.221.188/108.2ed.myftpupload.com/wp-content/uploads/2020/06/montamilwhite_599x98v1.png",Mon tamil tv
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Sneh Tamil International; Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/TVI_HD_logo.png/150px-TVI_HD_logo.png",Tamil Vision
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;Comedy" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png",IBC Pagadi
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;Devotional" tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png",Sivan Tv
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;Devotional" tvg-logo="https://assets.ibcstack.com/web/img/services/bakthi.png",IBC Bakthi
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;Devotional" tvg-logo="http://www.mycapitaltv.com/images/Tharisanamlogo.gif",Capital Dharisanam
+http://89.187.162.89/Capital_Tharisanam/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;Entertainment" tvg-logo="http://www.mycapitaltv.com/images/CapitalTVlogo.gif",Capital Tv
+http://89.187.162.89/Capital_TV-LIVE/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;Entertainment" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-black.png",IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;Entertainment" tvg-logo="https://s3.amazonaws.com/playstore/images/814cf36cf2dca5a19a57b32c771e611e",IBC TAMIL Canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;Entertainment" tvg-logo="https://analaiexpress.ca/wp-content/themes/aenew/assets/images/logo.png",Analai express tv
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Sneh Tamil International;Kids" tvg-logo="https://assets.ibcstack.com/web/img/services/kids.png",IBC KIDS
+https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;Music" tvg-logo="http://www.mycapitaltv.com/images/Musiclogo.gif",Capital Music
+http://89.187.162.89/Capital_Music/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;Music" tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;News" tvg-logo="http://www.mycapitaltv.com/images/bv05892.gif",Capital News
+http://89.187.162.89/Capital_NEWS/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil Local;Devotional" tvg-logo="https://lh3.googleusercontent.com/3K5Cs3r8X9Zz96EC9Uue5FjwxlujLw3K780jYqr-bM8fRbbEac8onhtwVfB4rrqhXtaKPQ1dvszJxL0=w960-h960-n-o-v1",Laxmi Tv
+http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Sneh Tamil Local;Education" tvg-logo="https://lh3.googleusercontent.com/QLDrZgUny2K79s3HLhonNJvkYtIuce_JAlO2zrDsnil5GbDYo4qRP2achR4mSr3DPIgl",Kalvi Cholai
+http://nextgeninfotech.ddns.net:8080/kalvisolai/kalvisolai.m3u8
+#EXTINF:-1 group-title="Sneh Tamil Local;Entertainment" tvg-logo="https://i.postimg.cc/Xv0tyJmw/newcanvas-1619840386422.png",Wins Tv(Madura Tv)
+http://bmlive.net:8000/WINS/winstv/bms.m3u8
+#EXTINF:-1 group-title="Sneh Tamil Local;Entertainment" tvg-logo="https://play-lh.googleusercontent.com/CgvOoJ4ewOfDSZi8OHbmkX6Ucxoqjt70abOuxNN1uPh3uvKnvuEhBOoZXjcCCRWOcq3J=s180-rw",Kanchi tv
+http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 group-title="Sneh Tamil Local;Entertainment" tvg-logo="https://play-lh.googleusercontent.com/VX7Zdy78EnY5411KHSUhmgkOONWipnMJK6qMu4Ku82mICSOxGHtkZkccs0eRa7PqsO0=s180-rw",JAWAHAR TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil Local;Entertainment" tvg-logo="https://play-lh.googleusercontent.com/m0axMB9eZKt93L-twW_Tsl-F0S6_CP62DxHUW-nRe6toU-N8cAvPj2B1faU4ZeJyVDg=s180-rw",Jeyam Plus
+http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Sneh Tamil Local;Entertainment" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj_8o0ceu3UGuWETkKXwANutQ0uvGq6oMx7wE4lyw=s88-c-k-c0x00ffffff-no-rj",CTN
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil Local;Lifestyle" tvg-logo="https://i.postimg.cc/jdGJPwT3/Rasi-Lifestyle.png",Rasi Lifestyle
+http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil Local;Music" tvg-logo="https://i.postimg.cc/N0qv7b92/Screenshot-2021-04-28-14-38-57-046-org-videolan-vlc-1619601997394.png",Isai Saral
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+#EXTINF:-1 group-title="Sneh Tamil Local;Music" tvg-logo="https://i.postimg.cc/nz3JrNxx/sana.png",Sana Plus
+http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8
+#EXTINF:-1 group-title="Sneh Tamil Local;Music" tvg-logo="https://i.postimg.cc/1tLbc03j/Screenshot-2021-05-26-08-06-06-167-com-singamcloud-cloudtamil-1622185986915.png",Sachin Music
+http://singamcloud.in:1935/sachinmusichd/sachinmusichd/chunklist_w1452161127.m3u8
+#EXTINF:-1 group-title="Sneh Tamil News" tvg-logo="N/A",News 18 Tamil
+http://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sneh Tamil;Devotional" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/b46dfdf9-dfcd-4c14-8bb4-f0fb62e1f7a3.jpg",Swasthik Tv
+http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Devotional" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj5Bdc5vIUx4t7cicpac5Mao9LqGOU2N1uRZF93=s88-c-k-c0x00ffffff-no-rj",Sai TV
+https://streaming37.worldbbtv.com/hls/saitv.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Devotional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/SVBC_2.jpg/revision/latest/scale-to-width-down/280?cb=20190318130356",Svbc 2
+http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Polimer-TV.png/revision/latest/scale-to-width-down/250?cb=20191224100831",Polimer
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/MKTV.png/revision/latest/scale-to-width-down/200?cb=20191225171218",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Entertainment" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng39Lc9lp50XhGc3zlZAryo9__95auw2qKHSFkZ_g=s88-c-k-c0x00ffffff-no-rj",Moon TV
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Entertainment" tvg-logo="http://3.bp.blogspot.com/-QPKrFqicxRg/UJ9Yua4Y2hI/AAAAAAAAAS4/f7l6H4MZh2k/s320/tamilantv-logo.gif",Tamilan
+http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Entertainment" tvg-logo="https://i.imgur.com/YeR3mm9.png",Velicham TV
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Music" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg",7sMusic
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Music" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in_tunes.png",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Music" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-music.png",IBC ISAI
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;News" tvg-logo="http://www.puthiyathalaimurai.com/assets/puthiyathalaimurai-logo.webp",Puthiya  Thalaimurai
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/News_J.jpeg/revision/latest/scale-to-width-down/200?cb=20191226093118",News J
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b1024,b1824,.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Radio" tvg-logo="http://www.hello.fm/images/logo2.png",Hello FM
+https://livessl.rcast.net/stream/66462.mp3
+#EXTINF:-1 group-title="Sneh Tamil;Radio" tvg-logo="https://scontent.fmaa2-2.fna.fbcdn.net/v/t1.6435-9/85242851_2563286400596885_46584886034694144_n.png?_nc_cat=111&ccb=1-3&_nc_sid=174925&_nc_ohc=YsRIdQIOyo8AX87TKEM&_nc_ht=scontent.fmaa2-2.fna&oh=86e2477fdd4af491a214a6f69b6177fb&oe=60DAFA17",Panbalai Tamil FM
+http://212.83.138.48:8251/stream.mp3
+#EXTINF:-1 group-title="Sneh Tamil;Radio" tvg-logo="https://scontent.fmaa2-2.fna.fbcdn.net/v/t1.6435-9/117645576_2654684681444779_7441330904512328234_n.png?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=m2LixxMCNOMAX-hyYUr&_nc_ht=scontent.fmaa2-2.fna&oh=bb41d99892fb3de8a90b64856eec2073&oe=60DE4FF9",Covai Tamil FM
+http://node-32.zeno.fm/kzd2e3tx24zuv
+#EXTINF:-1 group-title="Urdu" tvg-logo="N/A",ETV Urdu
+https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/index_5_av-p.m3u8
+#EXTINF:-1 group-title="မြန်မာ" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",mntv (မြန်မာ)
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 group-title="မြန်မာ" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",MWD (မြန်မာ)
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 group-title="မြန်မာ" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",MWD Movie HD  (မြန်မာ)
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1 group-title="မြန်မာ" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",MWD Serie HD (မြန်မာ)
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 group-title="မြန်မာ" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",MWD Variety (မြန်မာ)
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 group-title="မြန်မာ" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",MWD Docmen HD (မြန်မာ)
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 group-title="မြန်မာ" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",MWD Shopping HD (မြန်မာ)
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+#EXTINF:-1 group-title="မြန်မာ" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",MWD Family HD (မြန်မာ)
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1622187910_yupp.png",Yupp  thirai
+http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL SNEH" tvg-logo="https://singamcloud.com/tv/upload/1616305845_hari tv.png",Hari Tv
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Education" tvg-logo="https://singamcloud.com/tv/upload/1616305553_kalvi tv.png",Kalvi Tv
+http://198.144.149.82:8080/KALVI_GR10/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 group-title="CLOUD TAMIL SNEH" tvg-logo="https://singamcloud.com/tv/upload/1618489114_sai tv.png",SAI TV
+http://live.singamcloud.in:1935/saitvtvl/saitvtvl/playlist.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Sports" tvg-logo="https://singamcloud.com/tv/upload/1616435679_DD sports.png",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1616435069_puthugam.png",Puthuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1616432007_mk six.png",MK SIX
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL International" tvg-logo="https://singamcloud.com/tv/upload/1616431687_IBC PAKADI.png",IBC Pagadi
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1616431568_IBC siluvai.png",IBC Siluvai
+https://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Music" tvg-logo="https://singamcloud.com/tv/upload/1616431447_IBC isai.png",IBC ISAI
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1616431352_IBC paki.png",IBC Bakthi
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL SNEH" tvg-logo="https://singamcloud.com/tv/upload/1616321908_maa tv copy.png",Maa TV
+http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL SNEH" tvg-logo="https://singamcloud.com/tv/upload/1616321696_izzath.png",IZZATH TV
+http://stream.singamcloud.in:1935/izzathtv/izzathtv/playlist.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL SNEH" tvg-logo="https://singamcloud.com/tv/upload/1616319955_kirshna media.png",Krishna Media
+http://stream.singamcloud.in:1935/krishnamedia/krishnamedia/playlist.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL News" tvg-logo="https://singamcloud.com/tv/upload/1616305109_puthiya.png",Puthiyathalimurai NEWS
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL News" tvg-logo="https://singamcloud.com/tv/upload/1616305399_news j.png",NEWS J
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:newsj_,b256,b512,b1024,b1824,.smil/chunklist.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL International" tvg-logo="https://singamcloud.com/tv/upload/1622898474_IMG_20210605_183550.jpg",KBO TAMIL
+https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL International" tvg-logo="https://singamcloud.com/tv/upload/1622898529_IMG_20210605_183607.jpg",KBO classic tamil
+https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622645536_IMG_20210602_201956.jpg",TCV
+https://stream.ufworldind.in/tcv/tcv/playlist.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622638042_news18.png",News 18 Malayalam
+https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="CLOUD TAMIL Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622286807_Kaumudy TV.png",Kaumudy
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622286601_kappa.png",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622285815_mano.png",Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622285594_Kairali.png",Kairali
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622285476_Jaihind TV.png",Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622285264_Flowers TV.png",Flowers TV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622284783_Nvision.png",Nvision
+http://live.singamcloud.in:1935/nvision/nvision/playlist.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622284673_janam tv copy.png",Jeevan tv
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622284492_Amrita TV.png",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Malayalam Channel" tvg-logo="https://singamcloud.com/tv/upload/1622284368_ASINET.png",Asianet NEWS
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Satellite Channel" tvg-logo="https://singamcloud.com/tv/upload/1622225613_IMG_20210528_234254.jpg",Polimer Tv
+https://catchup.yuppcdn.net/amazonv2/20/preview/polimertv/master/master.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Religion Channel" tvg-logo="https://singamcloud.com/tv/upload/1622178343_newlife tv.png",newlifetv
+http://singamcloud.in:1935/newlifetv/newlifetv/playlist.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL Music" tvg-logo="https://singamcloud.com/tv/upload/1622178257_satchin.png",Sachin Music HD
+http://singamcloud.in:1935/sachinmusichd/sachinmusichd/playlist.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL International" tvg-logo="https://singamcloud.com/tv/upload/1622176085_tvi hd.png",TVI HD
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#EXTINF:-1 group-title="CLOUD TAMIL SNEH" tvg-logo="https://singamcloud.com/tv/upload/1622175914_MN tv.png",MN TV
+https://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1 group-title="Sneh SRIFlix | Tamil" tvg-logo="http://mycapitaltv.com/images/CapitalTVlogo.gif",Capital TV
+http://89.187.162.89/Capital_TV-LIVE/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Etv_Bala_Bharat_Tamil.jpg",
+https://dftkpvamsm0r1.cloudfront.net/out/v1/ee7ba7ef70fc4005a3992a2c0e8336aa/ETVB_CF_TN_NewsTime.m3u8
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",SPORTS_STAR_SPORTS_1
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=1256
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_COLORS_CINEPLEX
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=1250
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",STAR_SPORT_SELECT_1
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=1257
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",STAR_SPORT_SELECT_2
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=1258
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",SPORT_WILLOW_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=1259
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",SPORT_WILLOW_HD_2
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=1260
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",UK_SKY_SPORTS_CRICKET
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=1261
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",SPORTS_STAR_SPORTS_2
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=1262
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_HISTORY_TV_18_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126671
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",SPORTS_WILLOW_EXTRA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126673
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",SPORT_WILLOW_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126674
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",SPORT_WILLOW_HD_2
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126675
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",IND_SONY_ESPN_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126678
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",IND_TEN_1_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126679
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",IND_TEN_CRICKET
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126680
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",SPORTS_STAR_SPORTS_2
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126682
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",STAR_SPORT_SELECT_1
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126683
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",UR_PTV_SPORTS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126685
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",ENG_CAN_CP24
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126687
+#EXTINF:-1 group-title="Sneh DIALOG | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",ENG_ESPN_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126688
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_PPV1
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126690
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CINEMA_01
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126691
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CINEMA_02
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126692
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CINEMA_03
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126693
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CINEMA_04
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126694
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CINEMA_05
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126695
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CINEMA_06
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126696
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CINEMA_07
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126697
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CINEMA_08
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126698
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",OLD_INDIA_CINEMA_02
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126700
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HIN_DD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126701
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HIN_DD_MP
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126702
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_MUSIC_VIDEO
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126703
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HIN_JIO_FILMFARE_AWARDS_2017
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126704
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HIN_KOFFEE_WITH_KARAN
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126705
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HIN_BABA_RAMDEV_YOGA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126706
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HIN_MAHABHARAT_KATHA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126708
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HIN_The_Kapil_Sharma_E1_E20
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126709
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HIN_The_Kapil_Sharma_E21_E40
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126710
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HIN_The_Kapil_Sharma_E41_E60
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126711
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HIN_The_Kapil_Sharma_E61_E75
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126712
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HIN_The_Kapil_Sharma_latest
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126713
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_D2H_CINEMA_24
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126714
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TTT
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126715
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_STAR_ONE_MOVIES_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126717
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CLASSIC_MOVIES_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126718
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_MOVIES_1_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126719
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_MOVIES_2_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126720
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_TV_CANADA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126721
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_AND_TV_HD_USA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126722
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_CINEMA_HD_USA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126723
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_CINEMA_HD_ASIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126724
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_AND_PICTURES_4K_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126725
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_AND_PICTURES_HD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126726
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_TV_HD_USA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126727
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SONY_HD_USA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126728
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_STAR_PLUS_HD_USA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126729
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",AAPKA_COLORS_HD_USA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126730
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_STAR_BHARAT_USA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126731
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_RISHTEY_USA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126732
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SAB_TV_HD_USA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126734
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_CLASSIC
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126735
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_STAR_GOLD_HD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126736
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_B4U_MOVIES_USA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126737
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_AAJ_TAK_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126738
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SAMAY
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126739
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_DELHI_AAJ_TAK
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126740
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_TIMES_NOW
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126741
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_INDIA_TODAY
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126742
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_NDTV_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126743
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_NDTV_24X7
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126744
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_FOOD_FOOD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126745
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_AND_XPLOR_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126746
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_TRAVEL_XP_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126747
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CINEPLEX_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126748
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_UTV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126749
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_DIVYA_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126750
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_AASTHA_TV_USA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126751
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_AASTHA_BHAJAN
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126752
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SANSKAR_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126753
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_INDIA_TV_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126754
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ABP_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126755
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HIN_TEZ_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126756
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SAHARA_NCR_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126757
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_BUSINESS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126758
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_9X_JALWA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126759
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_MTV_BEATS_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126760
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_MTV_PLUS_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126761
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_B4U_MUSIC_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126762
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_B4U_MUSIC_USA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126763
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_MUSIC_MASTIII
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126764
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ET_NOW
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126765
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SADHNA_CHANNEL
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126766
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SONY_PAL
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126767
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_NEWS_24
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126768
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SATSANG_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126769
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HIN_NEWS_18
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126770
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SONY_WAH
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126771
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_TV_ASIA_HD_USA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126772
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_COLORS_CINEPLEX
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126773
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_CAFE
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126774
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_AND_FLIX
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126775
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZOOM_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126776
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_COLORS_UK
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126777
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_PRIME_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126778
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126780
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ARIHANT
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126783
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SAB_TV_UK
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126784
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SONY_UK
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126785
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_STAR_PLUS_HD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126786
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SONY_PIX_HD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126788
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_STAR_PLUS_UK
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126789
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_CINEMA_UK
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126791
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZING_TV_US
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126792
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZING_TV_UK
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126793
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_ANMOL_CINEMA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126794
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_ACTION
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126795
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_CINEMA_AUS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126796
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_CINEMA_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126797
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_BOLLYWOOD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126798
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SONY_MAX_UK
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126799
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_ETC_AUS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126801
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_DD_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126802
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_NDTV_GOODTIMES
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126803
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_AND_PRIVE_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126804
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_COLORS_HD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126805
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_MOVIES_OK
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126806
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_B4U_MOVIES_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126807
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_B4U_PLUS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126808
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_TV_HD_USA_WEST
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126809
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SONY_HD_USA_WEST
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126810
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_STAR_PLUS_USA_WEST
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126811
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SONY_HD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126812
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_TV_HD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126813
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_STAR_BHARAT_UK
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126814
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SONY_MAX2
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126815
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CINEMA_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126816
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CINEMA_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126817
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_ANMOL
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126818
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_BINDASS_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126819
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_LIVING_FOODZ_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126820
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_DISHA_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126821
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_RISHTEY_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126822
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_RISHTEY_UK
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126823
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SONY_MAX_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126824
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_COLORS_INFINITY_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126825
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_IBN_LOKMAT
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126826
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_BOLLYWOOD_PREMIER_HD1
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126827
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",IRAN_GEM_BOLLYWOOD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126828
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",http://fun6.xyz:2086/HINDI_B4U_AFLAM
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126829
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_E24
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126830
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_VEDIC_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126831
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_BHAKTI_SAGAR
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126832
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_AASTHA_TV_UK
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126833
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_KRISHNA_VANI
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126834
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZOOM
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126835
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_OM_NAMAH_SHIVAYA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126836
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_EPIC_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126837
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_JAI_SHREE_RAM
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126838
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SONY_MIX_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126839
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_DESI4U_CINEMA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126840
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_MOVIES_OK_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126841
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_DD_NATIONAL
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126842
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_LOK_SABHA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126843
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_RAJYA_SABHA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126844
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_THE_Q_INDIA_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126845
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_AAJ_TAK
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126846
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_HOUSEFULL_MOVIES
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126847
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SAB_TV_HD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126848
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_HARE_KRISHNA_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126850
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SARV_DHARAM_SANGAM
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126851
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_MATA_KI_BETEIN_1_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126852
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_MATA_KI_BETEIN_2_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126853
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_GANESH_BHAJANS_2_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126855
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_KRISHNA_BHAJANS_2_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126857
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_REPUBLIC_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126858
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_MIRROR_NOW
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126860
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_NEWS_NATION
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126861
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_INDIA_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126862
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_DISCOVERY_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126863
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_DISCOVERY_WORLD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126864
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ANIMAL_PLANETWORLD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126865
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_HISTORY_TV18_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126866
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SONY_BBC_EARTH_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126867
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_NAT_GEO_HD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126868
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_NAT_GEO_WILD_HD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126869
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ANIMAL_PLANET_HD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126870
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_HBO_HD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126871
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_TLC_HD_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126872
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_KANSHI_TV_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126873
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_NTV_HOUSTON_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126874
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_AMAR_UJALA_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126875
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_AATMA_CHANNEL
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126876
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_HINDUSTAN
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126877
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_BHARAT_SAMACHAR_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126878
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_RAJASTHAN
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126879
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_NEWS19_RAJASTHAN
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126880
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_INDIA_NEWS_RAJASTHAN
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126881
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_IBC_24_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126882
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_INH_24X7
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126883
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_JANTA_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126884
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_JK_24X7_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126885
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_INDIA_NEWS_HARYANA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126886
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_NATIONAL_VOICE
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126887
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SADHNA_NEWS_PLUS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126888
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_STAR_GOLD_SELECT_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126890
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_STAR_GOLD_HD_APAC
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126891
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_STAR_GOLD_SELECT_HD_APAC
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126892
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_SONY_MAX_HD_APAC
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126893
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_ZEE_CINEMA_HD_APAC
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126894
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CINEPLEX_HD_USA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126895
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_MINIPLEX_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126896
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_BOLLYWOOD_PREMIER_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126897
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CNBC_TV18_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126898
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_CNBC_AWAZ
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126899
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_MUSIC_INDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126900
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_BOLLYWOOD_NON_STOP
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126901
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_T_MEDIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126902
+#EXTINF:-1 group-title="Sneh DIALOG | HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",HINDI_DEALS_TODAY
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126903
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_MUSIC_VIDEO_01
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126904
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_ASIANET_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126905
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_ASIANET_ME
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126906
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_ASIANET_PLUS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126907
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_ASIANET_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126908
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_SURYA_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126909
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_MANORAMA_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126910
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_REPORTER_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126912
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_NEWS_18_KERALA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126913
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_RAJ_NEWS_MALAYALAM
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126914
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_KAIRALI_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126915
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_24_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126917
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_KERALAVISION
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126918
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_DD_MALAYALAM
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126919
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_KAIRALI_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126920
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_KAIRALI_ARABIA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126921
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_MAZHAVIL_MANORAMA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126922
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_FLOWERS_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126923
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_AMRITA_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126924
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_SURYA_MUSIC
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126925
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_RAJ_MUSIC
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126926
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_GARSHOM_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126927
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_JAIHIND_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126928
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_JEEVAN_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126929
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_KAUMUDY
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126930
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_MEDIAONE_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126931
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_SHOLAM_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126932
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_POWER_VISION
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126933
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_KAPPA_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126936
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_HARVEST_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126938
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_SURYA_COMEDY
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126941
+#EXTINF:-1 group-title="Sneh DIALOG | MALAYALAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",MALAYALAM_ASIANET_MOVIES
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126942
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_NAT_GEO_TAMIL_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126958
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_NAT_GEO_WILD_TAMIL_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126959
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_FOX_LIFE_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126960
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_ZEE_TAMIL
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126961
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_SUN_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126962
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_SUN_LIFE
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126963
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_STAR_VIJAY_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126964
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_KTV_HD
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126965
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_COLORS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126966
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_JAYA_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126967
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_JAYA_MAX
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126968
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_JAYA_PLUS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126969
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_VIJAY_SUPER
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126971
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_STAR_VIJAY_UK
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126972
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_SIRIPPOLI_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126973
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_KALAIGNAR_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126974
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_DISCOVERY_KIDS_TAMIL
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126975
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_CHUTTI_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126976
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_RAJ_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126977
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_RAJ_DIGITAL_PLUS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126978
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_CAPTAIN_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126979
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_RAJ_NEWS_247
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126980
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_POLIMER_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126981
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_NEWS_7
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126982
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_SUN_NEWS_TAMIL
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126983
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_LOTUS_NEWS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126984
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_NEWS_18_TAMIL_NADU
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126986
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_VASANTH_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126987
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_JAYA_MOVIES
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126988
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_PUTHIYA_THALAIMURAI
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126989
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_SUN_MUSIC
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126990
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_RAJ_MUSIX
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126991
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_DHEERAN_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126992
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_VANDHAR_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126994
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_MADHIMUGHAM_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126995
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_ADITHYA_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126996
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_MAKKAL_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126997
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_CAPTAIN_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=126998
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_SEITHIGAL_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127000
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_SRI_SANKARA_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127001
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_THANTHI_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127002
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_VASANTH_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127003
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_TATA_SKY_TAMIL_CINEMA
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127004
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_TVI
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127006
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_PEPPERS
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127007
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_SATHIYAM_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127008
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_DD_PODHIGAI
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127009
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_ZEE_THIRAI
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127010
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_MK_TUNES
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127011
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_TUNE_6
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127012
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_NAMBIKKAI_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127013
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_IMAYAM_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127015
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_MOON_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127016
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_MK_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127018
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_SAHANA_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127019
+#EXTINF:-1 group-title="Sneh DIALOG | TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png",TAMIL_SALVATION_TV
+http://istreamiptv.gq/apix/dialogtv/dialogtv.php?id=127021
+#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-HD-white.png",Sun TV HD
+http://istreamiptv.gq/api1cdn/hd/sunhd/auth.php
+#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-tv-uk-white.png",Sun TV EU HD
+http://istreamiptv.gq/api1cdn/hd/suntveu/auth.php
+#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ktv-HD-white.png",KTV HD
+http://istreamiptv.gq/api1cdn/hd/ktv/auth.php
+#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-music-HD-white.png",Sun Music HD
+http://istreamiptv.gq/api1cdn/hd/smusic/auth.php
+#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/adithya-tv-white.png",Adithya
+http://istreamiptv.gq/api1cdn/hd/sadithya/auth.php
+#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://img2.pngio.com/star-vijay-logopedia-fandom-star-vijay-png-600_365.png",Star Vijay HD
+http://istreamiptv.gq/api1cdn/hd/auth.php
+#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://img2.pngio.com/star-vijay-logopedia-fandom-star-vijay-png-600_365.png",STAR VIJAY TV HD
+http://istreamiptv.gq/api1cdn/hd/vj/auth.php
+#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/star-vijay-uk-white.png",Star Vijay UK HD
+http://istreamiptv.gq/api1cdn/hd/vjuk/auth.php
+#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1010/PORTRAIT/d3Gg9pby.png",Zee Tamil HD
+http://istreamiptv.gq/api1cdn/hd/ztamil/auth.php
+#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_10000000057050000/ic_logo_Colors_Tamil_HD_WB.png",Colors Tamil HD
+http://istreamiptv.gq/api1cdn/hd/tcolors/auth.php
+#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://img2.pngio.com/star-sports-hd1-star-sports-2-png-image-with-transparent-star-sports-png-840_859.png",Star Sports 1 HD
+http://istreamiptv.gq/api1cdn/hd/ssport/auth.php
+#EXTINF:-1 group-title="Sneh iStreamtv | Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Shakthi_TV_logo.png",Shakthi
+http://istreamiptv.gq/api1cdn/hd/shakti/auth.php
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV HD
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=SunTVHD
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg",KTV
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=KTV
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",Sun Music HD
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=SunMusicHD
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg",Sun Music
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=SunMusic
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg",Sun Life
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=SunLife
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg",Adithya TV
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=AdithyaTV
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg",Sun News
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=SunNews
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg",Gemini TV HD
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=GeminiTVHD
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg",Gemini Movies HD
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=GeminiMoviesHD
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/26568/1000x1000_eaa4e437-cce0-4411-8e46-13640be94c55.jpg",Gemini Music HD
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=GeminiMusicHD
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/9026/1000x1000_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg",Gemini Music
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=GeminiMusic
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/9015/1000x1000_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg",Gemini Movies
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=GeminiMovies
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/26572/1000x1000_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg",Gemini Life
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=GeminiLife
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/9027/1000x1000_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg",Gemini Comedy
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=GeminiComedy
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg",Surya TV HD
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=SuryaTVHD
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg",Surya TV
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=SuryaTV
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/30835/1000x1000_143a4af4-2f02-4c9c-814b-af149e6a5a95.jpg",Surya Comedy
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=SuryaComedy
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/26575/1000x1000_a73efcfb-e350-491c-94e0-bd75f0d9d5f2.jpg",Surya Music
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=SuryaMusic
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/30846/1000x1000_efb20223-e677-49fd-985e-806e7b162c6b.jpg",Udaya TV HD
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=UdayaTVHD
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/9029/1000x1000_9f0bcf68-5025-43af-8e60-b83fea67215c.jpg",Udaya TV
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=UdayaTV
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/9022/1000x1000_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg",Udaya Music
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=UdayaMusic
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/26576/1000x1000_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg",Udaya Movies
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=UdayaMovies
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/9014/1000x1000_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg",Udaya Comedy
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=UdayaComedy
+#EXTINF:-1 group-title="Sneh SunNXT | IST-Time" tvg-logo="https://sund-images.sunnxt.com/75117/200x200_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg",Sun Bangla
+http://istreamiptv.gq/api3/cdn/sunnxt/ist/nxtist.php?uid=Lock202_88432&c=SunBangla
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg",Sun TV HD
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=SunTVHD
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg",Sun TV
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=SunTV
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg",KTV HD
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=KTVHD
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg",KTV
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=KTV
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",Sun Music HD
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=SunMusicHD
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg",Sun Music
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=SunMusic
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg",Sun Life
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=SunLife
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg",Adithya TV
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=AdithyaTV
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg",Sun News
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=SunNews
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg",Gemini TV HD
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=GeminiTVHD
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg",Gemini Movies HD
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=GeminiMoviesHD
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/26568/1000x1000_eaa4e437-cce0-4411-8e46-13640be94c55.jpg",Gemini Music HD
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=GeminiMusicHD
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/9026/1000x1000_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg",Gemini Music
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=GeminiMusic
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/9015/1000x1000_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg",Gemini Movies
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=GeminiMovies
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/9017/1000x1000_66d46fd1-643f-429f-9e19-db603fa0e5e4.jpg",Gemini TV
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=GeminiTV
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg",Surya TV HD
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=SuryaTVHD
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg",Surya TV
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=SuryaTV
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/30835/1000x1000_143a4af4-2f02-4c9c-814b-af149e6a5a95.jpg",Surya Comedy
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=SuryaComedy
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/26575/1000x1000_a73efcfb-e350-491c-94e0-bd75f0d9d5f2.jpg",Surya Music
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=SuryaMusic
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=SuryaMovies
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/30846/1000x1000_efb20223-e677-49fd-985e-806e7b162c6b.jpg",Udaya TV HD
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=UdayaTVHD
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/9029/1000x1000_9f0bcf68-5025-43af-8e60-b83fea67215c.jpg",Udaya TV
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=UdayaTV
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/9022/1000x1000_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg",Udaya Music
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=UdayaMusic
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/26576/1000x1000_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg",Udaya Movies
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=UdayaMovies
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/9014/1000x1000_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg",Udaya Comedy
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=UdayaComedy
+#EXTINF:-1 group-title="Sneh SunNXT | UK-Time" tvg-logo="https://sund-images.sunnxt.com/75117/200x200_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg",Sun Bangla
+http://istreamiptv.gq/api3/cdn/sunnxt/uk/nxtist.php?uid=Lock202_88432&c=SunBangla
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",Colors Tamil HD
+https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png",Colors Super
+https://livevoot-i.akamaihd.net/dash/live/828527/colorssuper/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
+https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",Colors Kannada HD
+https://livevoot-i.akamaihd.net/dash/live/828525/kannada1/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",Colors Gujarati
+https://livevoot-i.akamaihd.net/dash/live/828532/colorsgujarati/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png",Colors Oriya
+https://livevoot-i.akamaihd.net/dash/live/828550/colorsodia/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bengali HD
+https://livevoot-i.akamaihd.net/dash/live/828529/colorsbangla/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",Colors Marathi HD
+https://livevoot-i.akamaihd.net/dash/live/828522/colorsmarathi/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
+https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
+https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png",Nick HD+
+https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
+https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
+https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="https://i.ytimg.com/vi/sVDIDOWXzV8/maxresdefault.jpg",BIGG BOSS 14 (Hindi) Before TV
+https://vootlivelinear.akamaized.net/dash/live/2018726/bbtv/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="https://v3img.voot.com/resizeMedium,w_418,h_235/v3Storage/assets/BBK-BeforeTv-NewEpisode-16x9-1614696593068.jpg",BIGG BOSS  (Kannada) Before TV
+https://vootlivelinear.akamaized.net/dash/live/2025732/bbkbtv/master.mpd
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027842_channel_1533905958_1531815427_News18-Tamil_1_1_500x50011.png",News18 Tamil
+https://news18tnvoot-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027950_channel_1533906114_1531815785_News18-Chattisgarh11.png",News18 Mpcg
+https://news18mpchvoot-lh.akamaihd.net/i/n18mpcg_1@175737/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027908_channel_1534165411_News18-Lokmat_1_1_500x5001.png",News18 Lokmat
+https://news18lokmatvoot-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027920_channel_1533906346_channel_1533120932_News18-Kerala11.png",News18 Kerala
+https://news18keralavoot-lh.akamaihd.net/i/n18kerala_1@526583/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027949_channel_1533906298_1531816214_News18-Himachal-Pradesh_1_1_500x50011.png",News18 Punjabi
+https://news18hipuvoot-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027989_channel_1533906267_1531816166_News18-Assam_1_1_500x50011.png",News18 Assame
+https://news18asnevoot-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027926_channel_1533906053_1531815606_News18-Urdu_1_1_500x50011.png",News18 Urdu
+https://news18urduvoot-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535028061_channel_1533906086_1531815737_News18-Jharkhand11.png",News18 Bihari
+https://news18bijhvoot-lh.akamaihd.net/i/n18biharjh_1@175736/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Sneh VOOT" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027739_channel_1533905845_1531814815_News18-Bangla_1_1_500x50011.png",News18 Bangla
+https://news18banglavoot-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
+#EXTINF:-1 ,
+https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd
+#EXTINF:-1 group-title="Sneh SonyLIV-India Only" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png",SONY TEN 2 HD
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV-India Only" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_SD.png",Sony Ten 2 SD
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV-India Only" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png",SONY TEN 3 HD
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV-India Only" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN3HD.jpg",Sony Ten 3 SD
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV-India Only" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png",Sony SIX HD
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV-India Only" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png",Sony Six SD
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV FHD-India Only" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png",SONY SET FHD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV FHD-India Only" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png",SONY SAB FHD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV FHD-India Only" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png",SONY AATH
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV FHD-India Only" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png",SONY YAY HIN
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV FHD-India Only" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png",SONY MAX FHD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV FHD-India Only" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png",SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV FHD-India Only" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png",SONY TEN 1 FHD
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV FHD-India Only" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png",SONY TEN 2 FHD
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV FHD-India Only" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png",SONY TEN 3 FHD
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV FHD-India Only" tvg-logo="https://origin-staticv2.sonyliv.com/cms/4867316278001/thumbnail/4867316278001_thumb.jpg",SONY MAX SD
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV FHD-India Only" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg",SONY MAX 2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 group-title="Sneh SonyLIV FHD-India Only" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png",BBC EARTH
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 group-title="Sneh REQUESTED | CHANNELS" tvg-logo="https://assets.thehansindia.com/h-upload/2020/10/02/1003012-svbc.jpg",SVBC 2
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/tamil/svbc21/chunks.m3u8
+#EXTINF:-1 ,
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:-1 ,
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:-1 group-title="Sneh Flix | Movies" tvg-logo="https://static.epg.best/kr/Animax.kr.png",Animax
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 ,
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+#EXTINF:-1 ,
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+#EXTINF:-1 ,
+https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+#EXTINF:-1 ,
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+#EXTINF:-1 ,
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF:-1 ,
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF:-1 ,
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#EXTINF:-1 ,
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+#EXTINF:-1 ,
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 ,
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+#EXTINF:-1 group-title="Sneh Local Channels",Rasi Hindi
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels",Bonus HD
+http://singamcloud.in:1935/bonushd/bonushd/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels",Adutha Thalaimurai
+http://singamcloud.in:1935/aduthathalaimurai/aduthathalaimurai/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="http://7starcloud.in/7 Star.png",7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="http://7starcloud.in/sana hd0000.png",Sana TV
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="https://threetamil.tv/wp-content/uploads/2019/03/3-tamil.png",3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="http://7starcloud.in/PNG.png",Sana Plus
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="https://madhimugam.com/wp-content/uploads/2020/02/MDM-LOGO-2.gif",Madhimugam Tv
+http://7starcloud.com:1935/madhimugamtv/madhimugamtv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="http://7startv.in/prakalya.png",Prakalya TV
+http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="http://7startv.in/aarishvfx_00082.png",Udhayam TV
+http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="http://7starcloud.in/gta.jpg",GTA Tamil TV
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="http://7starcloud.in/Anandha 4k_00031.png",Anandha Tv
+http://media.7starcloud.com:1935/anandhatv/anandhatvlive/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="http://7starcloud.in/faa81f26-b014-46af-946a-4dc4864172ca.jpg",Malligai TV
+http://jaaltv.livebox.co.in/malligaihls/live.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="http://7starcloud.in/logo 512x512 2.png",OM TV
+http://7starcloud.com:1935/omtv/omtv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sirippoli-tv-black.png",Siripooli TV
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="http://7starcloud.in/NB.png",News18 Tamilnadu
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kalaignar-tv-black.png",Kalaignar TV
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="https://www.mktelevision.com/images/logo.png",Mk TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Vasantham2008.svg/revision/latest/scale-to-width-down/300?cb=20190810160718",Vasantham TV(Singapore)
+https://tglmp03.akamaized.net/out/v1/230bc7050839446b87c86268df536ab6/master.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/120537591455517270-56c16e5608bd2.png",Santhora TV
+http://santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Srisankara-tv-logo.png",Sankara TV
+http://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
+#EXTINF:-1 group-title="Sneh Local Channels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png",Madha TV
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w1901270032.m3u8
+#EXTINF:-1 ,Tirumalai TV KARUR
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Local" tvg-logo="http://mntv.in/style/images/logo-dark.png",Marutam TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1  tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Local" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png",Raj TV
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200909-WA0076.jpg",Faith tv
+http://faithtvlive.livebox.co.in/faithtvhls/live.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20191229-WA0002.jpg",Kavin tv
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kavintv/index.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/images (30).png",Mk tv
+http://103.199.160.85:80/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/Logo Bg_00000.png",Palaru tv
+http://account13.livebox.co.in/palartvhls/live.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/images (99).jpeg",Polimer news
+http://versewsa.pc.cdn.bitgravity.com:80/versewsa/live/polimernews.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/Screenshot_20200908-234711~2.png",Tamilan tv
+http://media.7starcloud.com:1935/harimedia/live1/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Jaya_HD.jpg/revision/latest/scale-to-width-down/220?cb=20200817140538",Jaya TV HD
+http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;Entertainment" tvg-logo="http://www.mycapitaltv.com/images/CapitalTVlogo.gif",Capital TV
+http://89.187.162.89:80/Capital_TV-LIVE/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil Local;Entertainment" tvg-logo="https://play-lh.googleusercontent.com/svGc_Z5HrkV891tSkXNRPKa0Y0JHBt6GqluN9AuHdOtv9PgryBuZZWxC7sK2CYmrFSo=s180-rw",Anandam UTV Madurai
+http://nextgeninfotech.ddns.net:8080/utv/utv.m3u8
+#EXTINF:-1 group-title="Sneh Tamil Local;Entertainment" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhH8PhAig492qs3GAszfp3fAAttCelnrLpqi1P9=s48-c-k-c0x00ffffff-no-rj",Anandam Abi TV Madurai
+http://nextgeninfotech.ddns.net:8080/abi/abi.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;Music" tvg-logo="http://www.mycapitaltv.com/images/Musiclogo.gif",Capital Music
+http://89.187.162.89:80/Capital_Music/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil Local;Music" tvg-logo="https://i.postimg.cc/8cC2P039/Screenshot-2021-04-28-14-39-13-473-org-videolan-vlc-1619602042079.png",TDCTO (Apple Music)
+http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w792788465.m3u8
+#EXTINF:-1 group-title="Sneh Tamil;Devotional" tvg-logo="https://i.postimg.cc/L4GVLBr6/Screenshot-2021-05-29-19-24-58-141-com-mxtech-videoplayer-ad-1622296600821.png",Deepam TV
+https://cdn.rjdigilink.in/deepamtv/livetv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;Devotional" tvg-logo="http://www.mycapitaltv.com/images/Tharisanamlogo.gif",Capital Dharisanam
+http://89.187.162.89:80/Capital_Tharisanam/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;News" tvg-logo="http://www.mycapitaltv.com/images/bv05892.gif",Capital News
+http://89.187.162.89:80/Capital_NEWS/index.m3u8
+#EXTINF:-1 group-title="Sneh Tamil International;Kids" tvg-logo="https://assets.ibcstack.com/web/1.0/img/services/kids.png",IBC Kids
+https://tx1.ibctamil.tv/CDN_IBC_Kids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sneh International;Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Sneh International;Infotainment" tvg-logo="https://mst3k.com/userFiles/uploads/logos/mstlogo.png",Mystery Science
+https://mst3k-stirr-us.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="Sneh International;Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png",NASA Media TV
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="Sneh International;Infotainment" tvg-logo="http://clipart-library.com/images/8TAb9LgGc.jpg",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="Sneh International;Infotainment" tvg-logo="https://image.roku.com/developer_channels/prod/88a440255269e1782103522844732107d34aa120f27dedf0c2339f9e6e2ae72b.png",Adventure Sports
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 group-title="Sneh International;Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Docurama_Logo_August_2015.jpg/220px-Docurama_Logo_August_2015.jpg",DocuRama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 group-title="Sneh India; Hindi Entertainment" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhYqFZGxRzP5WbWv_HlFvzEgMGYtgQ2lMzH6KrgUw=s88-c-k-c0x00ffffff-no-rj",Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sneh India; Hindi Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest/scale-to-width-down/250?cb=20210508163434",9xm
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 group-title="Sneh India; English News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sneh India; English News" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2017/11/Mirror_Now-new_9.jpg",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Sneh India; English News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxLelPwXy9hC058K6tQkrFAT7sY_2lLzCdQ&usqp=CAU",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320-b/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+#EXTINF:-1 group-title="Sneh India; English BusinessNews" tvg-logo="https://i.imgur.com/rhkI95a.png",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 group-title="Sneh Malayalam;Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Kerala_Vision.jpeg/revision/latest/scale-to-width-down/240?cb=20191228094530",Kerala Vision
+http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Sneh Malayalam;Entertainment" tvg-logo="https://m4tv.com.au/assests/images/logo.png",M4 Malayalam Australia
+http://app.m4stream.live/mfourmalayalamhls/live.m3u8
+#EXTINF:-1 group-title="Sneh Malayalam Local;Entertainment" tvg-logo="https://i.postimg.cc/cLwtmx4x/onetv.png",One TV
+http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
+#EXTINF:-1 group-title="Sneh Malayalam Local;Entertainment" tvg-logo="https://utvpkd.in/assets/img/logo.png",UTV Palakkad
+http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+#EXTINF:-1 group-title="Sneh English;Sports",Test 3
+http://45.87.29.50:25461/live/307201171111/307201171111/83952.m3u8
+#EXTINF:-1 group-title="Sneh English;Sports",Test 4
+http://istreamtv.fun/vdn/thirai/m3u8.php?token=WVZaT01HTnRWbWhpVmxKWFdERkNjMWxZYkhOaFdFNHdXREZTZG1FeVZuVlBhVUpWVkRCMFJsUnFiMmRPYlVwcFdrZE5NVTF0U1hkWlZHc3lXVlJLYkU1SFRteE5la2wzVFhwU2FFNXRTbWhPYWxsNldtMVZlRTU2U1hwTk1rNXBUVlJSZUZscVozbE5WR016VGtSR2ExcHFTbWxhUjFsM1RrUmFiRTFYUm1oTmVteHNXa1JSTkZwcVpHbE9SRmsxVFhwQk1VOUVZekpPYWtWNVdrZE5NMDE2VW1oTmVtZDVUVWRhYlU5WFNYcGFiVkV6VFZSQk1rMVhVbWhOVjBVMFdtcFZkMDFFUlhwYVYxSnM=&remote=2405:201:e008:c0d0:68d4:ceb4:a392:5a4c&e=.m3u8
+#EXTINF:-1 group-title="Sneh English;Sports",Test 5
+http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
+#EXTINF:-1 group-title="Sneh English;Sports",Test 6
+http://bmlive.net:8000/kktdctv/kktdctv/bms.m3u8
+#EXTINF:-1 group-title="Sneh Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg",ಪಬ್ಲಿಕ್ ಸಂಗೀತ Public Music (576p)
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="https://tavapi.inditechman.com/extras/images/smstv.webp",SMS TV Tisaiyanvillai
+http://singamcloud.in:1935/smstvtsy/smstvtsy/playlist.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="https://tavapi.inditechman.com/extras/images/152.png",VIP HD
+http://bmlive.net:8000/gtv/gtv/bms.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="https://tavapi.inditechman.com/extras/images/145.png",Digital TV
+http://bmlive.net:8000/digitaltv/digitaltv/bms.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="https://tavapi.inditechman.com/extras/images/161.png",Krubai TV
+http://bmlive.net:8000/kirubaitv/kirubaitv/bms.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="https://tavapi.inditechman.com/extras/images/125.png",Ladhee TV
+http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="https://tavapi.inditechman.com/extras/images/124.png",SJS TV
+http://bmlive.net:8000/sjstv/sjstv/bms.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="https://tavapi.inditechman.com/extras/images/111.png",Penguin TV
+http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="https://tavapi.inditechman.com/extras/images/109.png",Vasanth TV
+http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="https://tavapi.inditechman.com/extras/images/110.png",SMYRNA TV
+http://bmlive.net:8000/smyrnatv/smyrnatv/bms.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="https://tavapi.inditechman.com/extras/images/89.png",Selfie TV
+http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="https://tavapi.inditechman.com/extras/images/jeevaoli.webp",JeevaOli TV
+http://jaeppiyar.livebox.co.in/jeevaolitvhls/live.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL",TDCTO
+http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w422916913.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="https://tavapi.inditechman.com/extras/images/90.png",KL My TV
+http://bmlive.net:8000/mytvtn/mytv/bms.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG58756.png",Sharvesh 7Star TV
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG53656.png",SR MUSIX
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="https://tavapi.inditechman.com/extras/images/mptv.webp",MP TV
+http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8
+#EXTINF:-1 group-title="Sneh JOKER CLOUD TAMIL" tvg-logo="https://tavapi.inditechman.com/extras/images/1602587859_1598793299_mirrorcopy.jpg",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1 ,Makkah Live1
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:-1 ,IIT Course
+https://msllive.yuppcdn.net/live/yuppsportsind/hls/live/2004030/ymcc12thiity/ymcc12thiity/playlist/master.m3u8?e=2&Auth_Token=ad4ab5ced8688891fb20082b90c3fe87cdf08d40
+#EXTINF:-1 ,Neet Course
+https://msllive.yuppcdn.net/live/yuppsportsind/hls/live/2004030/ymcc12thneety/ymcc12thneety/playlist/master.m3u8?e=5&Auth_Token=ad4ab5ced8688891fb20082b90c3fe87cdf08d40
+#EXTINF:-1 ,JayaTV Tamil
+http://uk4.zecast.com:1935/star-live/jaya/index.m3u8
+#EXTINF:-1 ,MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
+#EXTINF:-1 ,Captain TV
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/Stream(02)/index.m3u8
+#EXTINF:-1 ,VAANAVIL TV(Tamil)
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1 ,MOON TV1(Tamil)
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+#EXTINF:-1 ,NEWS 18 Tamil
+http://news18tamil-lh.akamaihd.net:80/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,THANTHI TV Tamil
+http://vidcdn.vidgyor.com:80/thanthi-origin/liveabr/playlist.m3u8
+#EXTINF:-1 ,GTA TV HD(INTL)
+http://142.44.213.115:8888//gta_tamil//index.m3u8
+#EXTINF:-1 ,Yupp Tamil
+http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
+#EXTINF:-1 ,MN MUSIC HD(Local)
+http://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 ,Vaigai TV(Local)
+http://account9.livebox.co.in:80/vaigaitvhls/live.m3u8
+#EXTINF:-1 ,Kavin TV(Local)
+http://site1.ultramaxnet.com:80/client/hls/namma-ooru-tv/kavintv/index.m3u8
+#EXTINF:-1 ,Xperss TV(Local)
+http://nextgeninfotech.ddns.net:8080/xpres/xpres.m3u8
+#EXTINF:-1 group-title="Sneh MOVIES" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",Filmrise Crime (Movies)
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 group-title="Sneh Movies" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",Groovy (Movies)
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Movies" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",Kuriakos Cine (Movies)
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
+#EXTINF:-1 group-title="Sneh Movies" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",Movie Kingdom (Movies)
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 group-title="Sneh Movies" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",Netmax TV (Movies)
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Movies" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",TV BNO (Movies)
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:-1 group-title="Sneh Movies" tvg-logo="https://www.linkpicture.com/q/1_228.jpg",Wixlar (Movies)
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Hindi",ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",Apna Punjab
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1 group-title="Sneh Hindi",Desi Beats HD
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Marathi",News 18 Lokmat
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_5.m3u8
+#EXTINF:-1 group-title="Sneh Malayalam",News 18 Malayalam
+https://kerala_nws18_hls-lh.akamaihd.net/i/kerala_news18_hls_1@526583/index_5_av-p.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",PTN 24
+http://cdn.samtv.ca/ptv24/index.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",PTV Pardesi
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",Punjab TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",Saint TV
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",Sanjha Punjab
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh Punjabi",Subrang TV USA
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8

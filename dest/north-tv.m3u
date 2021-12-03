@@ -1,0 +1,138 @@
+#EXTM3U 
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
+https://github.com/techiesneh
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/MH_One.jpg/revision/latest/scale-to-width-down/340?cb=20180625063419" ,MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://i.imgur.com/hzFatTk.png" ,Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://britasia.tv/wp-content/uploads/2016/08/BATV_FINAL-LOGO.jpg" ,BritAsia TV
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://lh3.googleusercontent.com/q5ukeS_O4U8d8rlUYqYgzJ2X4o-j98M30T-Zwxo5zHvxA_iCejbzd7Af1OrIW7ybME8.png" ,Hulchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://i.imgur.com/ExkhL2U.png" ,DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://pbs.twimg.com/profile_images/637936076590440448/mmN3Fnsa_400x400.jpg",FASTWAY NEWS
+http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Ytv_1994.png/revision/latest/top-crop/width/300/height/300?cb=20130901071257" ,Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:0 group-title="Sneh PUNJABI" tvg-logo="https://i.imgur.com/PB7QMfb.png",Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://lh3.googleusercontent.com/5lLRKyWMDacXykm4NJWVeZni578nOIgBcRywa4i4-fZwImFADXol0wsh-W5SaU4f9Lb3" ,PTN 24
+http://cdn.samtv.ca/ptv24/index.m3u8
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="http://primeasia.tv/assets/front/images/logo-new1.png" ,Prime Asia
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Apna Punjab
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Canada Star TV
+http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Fateh TV
+https://wowzaprod142-i.akamaihd.net/hls/live/592898/387dc47a/playlist.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",GDNS Ludhiana
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",GDNS Surrey
+http://live.agmediachandigarh.com/dukhnivaransahib/bfc254e2e8c0e9cb0f8318c493e8c78d.sdp/mono.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",NDA Channel
+http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",PTN 24
+http://cdn.samtv.ca/ptv24/index.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",PTV Pardesi
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Punjab TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Saint TV
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Sanjha Punjab
+http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Subrang TV USA
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Punjabi",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi",Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi",Apna Punjab
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi",BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 group-title="Punjabi",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi",Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+#EXTINF:-1 group-title="Punjabi",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi",GDNS Ludhiana
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:-1 group-title="Punjabi",Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1 group-title="Punjabi",TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:-1 group-title="Punjabi",Subrang TV USA
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 group-title="Punjabi",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi",Toronto 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi",Saint TV
+http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
+#EXTINF:-1 group-title="Punjabi",Punjab TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 group-title="Punjabi",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 group-title="Punjabi",PTN 24
+http://cdn.samtv.ca/ptv24/index.m3u8
+#EXTINF:-1 group-title="Punjabi",PTV Pardesi
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 ,Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 ,TV 100
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
+#EXTINF:-1 ,TV PUNJAB
+http://cdn.samtv.ca/tvpunjab/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,DESI CHANNEL
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 ,5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
+#EXTINF:-1 ,PUNJAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
