@@ -217,7 +217,12 @@ To watch IPTV you just need to paste the `.m3u` file like this `https://bit.ly/A
   </table>
 </details>
 
-### Where I got the M3U links
+### How to run
+```shell
+npm start
+```
+
+### Where I got these M3U links
 
 - [Sneh Repo](https://github.com/techiesneh/sneh-iptv-m3u)
 - [IP Tv Org](https://github.com/iptv-org/iptv)
